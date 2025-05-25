@@ -43,11 +43,16 @@ AI Privacy Vault uses CoreML to analyze text and images for sensitive content an
 
 | Home Screen | File Analysis | Vault Browser |
 |-------------|---------------|---------------|
-| ![Home](https://github.com/user-attachments/assets/a51c1957-0056-49e0-bf23-b0681eec4fa8400x800) | ![Analysis](https://placeholder.com/analysis-screenshot-400x800) | ![Vault](https://placeholder.com/vault-screenshot-400x800) |
-<img width="1159" alt="Image" src="https://github.com/user-attachments/assets/a51c1957-0056-49e0-bf23-b0681eec4fa8" />
-| Settings | Security Options | AI Classification |
-|----------|------------------|-------------------|
-| ![Settings](https://placeholder.com/settings-screenshot-400x800) | ![Security](https://placeholder.com/security-screenshot-400x800) | ![AI](https://placeholder.com/ai-screenshot-400x800) |
+| ![Home] | 
+| <img width="1159" alt="Image" src="https://github.com/user-attachments/assets/a51c1957-0056-49e0-bf23-b0681eec4fa8" />
+| ![Details Screen]
+| <img width="1155" alt="Image" src="https://github.com/user-attachments/assets/d6c63ed8-a333-4e9f-a686-1f1cdc76d2b9" />
+| ![Vault Lock Screen]
+| <img width="1157" alt="Image" src="https://github.com/user-attachments/assets/9e597c2b-5654-468f-ac7e-d93902242c30" />
+| ![Vault Screen]
+| <img width="1153" alt="Image" src="https://github.com/user-attachments/assets/17e2d242-4b39-4187-8bc9-e801eb782d3f" />
+| ![Vault Login Screen]
+| <img width="380" alt="Image" src="https://github.com/user-attachments/assets/3323d1ca-1ebc-4fde-9444-6550e802f997" />
 
 ## 🚀 Getting Started
 

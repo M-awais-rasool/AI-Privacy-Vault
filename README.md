@@ -43,8 +43,8 @@ AI Privacy Vault uses CoreML to analyze text and images for sensitive content an
 
 | Home Screen | File Analysis | Vault Browser |
 |-------------|---------------|---------------|
-| ![Home](https://placeholder.com/home-screenshot-400x800) | ![Analysis](https://placeholder.com/analysis-screenshot-400x800) | ![Vault](https://placeholder.com/vault-screenshot-400x800) |
-
+| ![Home](https://github.com/user-attachments/assets/a51c1957-0056-49e0-bf23-b0681eec4fa8400x800) | ![Analysis](https://placeholder.com/analysis-screenshot-400x800) | ![Vault](https://placeholder.com/vault-screenshot-400x800) |
+<img width="1159" alt="Image" src="https://github.com/user-attachments/assets/a51c1957-0056-49e0-bf23-b0681eec4fa8" />
 | Settings | Security Options | AI Classification |
 |----------|------------------|-------------------|
 | ![Settings](https://placeholder.com/settings-screenshot-400x800) | ![Security](https://placeholder.com/security-screenshot-400x800) | ![AI](https://placeholder.com/ai-screenshot-400x800) |
